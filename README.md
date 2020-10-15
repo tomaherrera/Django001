@@ -1,2 +1,2 @@
 # Django001
-Ejemplo de repositorio local librería en Django
+Ejemplo de repositorio Local Libreria en Django
